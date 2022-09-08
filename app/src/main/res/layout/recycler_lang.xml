@@ -38,7 +38,7 @@
             android:layout_marginLeft="10dp"
             android:layout_marginTop="3dp"
             android:textColor="@color/black"
-            tools:text="Marks"/>
+            tools:text="lang Text"/>
         <View
             android:layout_width="match_parent"
             android:layout_height="2dp"
